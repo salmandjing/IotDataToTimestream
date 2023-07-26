@@ -1,6 +1,9 @@
 
 # Simulating IoT data into Timestream
 
+Instruction on how to deploy this in your account: [Here](/IotDataToTimestream
+/Simulating IoT Devices and Sending it to Timestream.pdf)
+
 This blog shows how you can simulate IoT devices and capture/filter that data for your own visualization tools. In 30 minutes you will
 -	Use a [CloudFormation](https://docs.aws.amazon.com/cloudformation/index.html) template to create simulator
 -	Capture time series data from the simulator into [AWS IoT Core](https://docs.aws.amazon.com/iot/index.html)
