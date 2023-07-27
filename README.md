@@ -9,6 +9,8 @@ The number of jobs openings is outpacing the supply of IoT engineers.
 One of the main barriers to learning about IoT is the cost associated
 with purchasing IoT hardware.
 
+![](/img/IotToTimestream.png)
+
 This blog shows how you can simulate IoT devices and capture/filter that
 data for your own visualization tools. In 30 minutes you will learn how to
 
